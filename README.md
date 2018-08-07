@@ -21,7 +21,7 @@ public class Pulse_compare1 {
         this.new_arr2=new_arr2;
         this.new_arr3=new_arr3;
         this.new_check=new_check;
-        this.temp=temp;
+        this.temp=temp;   
     }
     public void pulsedifference(String arr1[],String arr2[],float tolerance)//,String[] new_arr1,String[] new_arr2,String[] new_arr3,String[] new_check)
     {
