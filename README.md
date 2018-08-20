@@ -8,7 +8,7 @@ package pulse_compare1;
  *
  * @author Ashwin Nayak
  */
-public class Pulse_compare1 {
+public class Pulse_compare {
 
  String[] new_arr1;
     String[] new_arr2;
