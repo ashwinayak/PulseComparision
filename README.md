@@ -6,7 +6,7 @@ package pulse_compare1;
 
 /**
  *
- * @author Ashwin Nayak
+ * @author Ashwin Nayak 
  */
 public class Pulse_compare {
 
