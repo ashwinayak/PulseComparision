@@ -25,7 +25,7 @@ public class Pulse_compare {
     }
     public void pulsedifference(String arr1[],String arr2[],float tolerance)//,String[] new_arr1,String[] new_arr2,String[] new_arr3,String[] new_check)
     {
-        int j=0,count=0;
+        int j=0,count=0; 
         int x=0,y=0;
       
         //System.out.println("Position    Pulse X   PulseY    Difference %    Tolerance given: "+tolerance*100+"%");
