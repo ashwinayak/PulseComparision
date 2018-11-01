@@ -12,7 +12,7 @@ public class Pulse_compare {
 
  String[] new_arr1;
     String[] new_arr2;
-    String[] new_arr3;
+    String[] new_arr3; 
     String[] new_check;
     String[] temp;
     public Pulse_compare1(String[] new_arr1,String[] new_arr2,String[] new_arr3,String[] new_check,String[] temp)
