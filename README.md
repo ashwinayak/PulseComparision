@@ -19,7 +19,7 @@ public class Pulse_compare {
     {
         this.new_arr1=new_arr1;
         this.new_arr2=new_arr2;
-        this.new_arr3=new_arr3;
+        this.new_arr3=new_arr3; 
         this.new_check=new_check;
         this.temp=temp;   
     }
