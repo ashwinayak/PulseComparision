@@ -31,7 +31,7 @@ public class Pulse_compare {
         //System.out.println("Position    Pulse X   PulseY    Difference %    Tolerance given: "+tolerance*100+"%");
         int lenght=(arr1.length>arr2.length)?arr1.length:arr2.length;
          String yesno[]=new String[lenght];
-          float dp[] = new float[lenght];
+          float dp[] = new float[lenght]; 
         for(int i=0;i<lenght;i++)
         {
             if(arr1.length>i && arr2.length>i)
