@@ -41,7 +41,7 @@ public class Pulse_compare {
         if((Math.abs(x-y))<=(tolerance*x))
         {
         yesno[i]="YES";
-        new_check[i]=yesno[i];
+        new_check[i]=yesno[i]; 
         count++;
         }
         else
