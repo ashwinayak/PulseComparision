@@ -2,7 +2,7 @@
 Remote Pulse Comparison Code
 
 
-package pulse_compare1;
+package pulse_compare1; 
 
 /** 
  * 
